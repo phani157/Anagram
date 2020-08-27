@@ -1,1 +1,1 @@
-Sample Anagram program 
+ Anagram program 
