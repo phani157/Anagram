@@ -1,1 +1,1 @@
-Sample Anagram program which will asked  in interviews
+Sample Anagram program 
